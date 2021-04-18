@@ -1,7 +1,8 @@
 # Hack you future belgium website 
+
+
 ## Table of contents
 
-- [HACK YOUR FUTURE website](#HACK-YOUR-FUTURE-website)
   - [Table of contents](#table-of-contents)
   - [Introduction](#introduction)
   - [Goals](#goals)
@@ -15,7 +16,7 @@ Our team is going to build the HACK YOUR FUTURE website as a group project.
 
 ## Goals
 
-Our goal is to build  [HACK YOUR FUTURE](https://hackyourfuture.be/) website together and learn how to plan and organize our development process. 
+Our goal is to build  [HACK YOUR FUTURE](https://hackyourfuture.be/) website together and learn how to plan and organize our development process including how to code. 
 
 ## Stages
 
@@ -38,3 +39,4 @@ Our goal is to build  [HACK YOUR FUTURE](https://hackyourfuture.be/) website tog
 
 - [REPO](https://github.com/yildiztugba/HYKWebsite)
 - [DEMO](https://yildiztugba.github.io/HYKWebsite/)
+- [HYF](https://hackyourfuture.be/)
