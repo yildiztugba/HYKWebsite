@@ -1,7 +1,5 @@
 # Planning
 
-## Group Rules HYF-Group2
-
 ---
 
 ## Communication Schedule
