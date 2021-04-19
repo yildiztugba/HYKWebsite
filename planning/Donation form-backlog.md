@@ -11,7 +11,12 @@
       
     - As a user I want to see the contact form that i can contact the organization easily.
 
-     - Given the contact form.
+     - Given the contact form of the oeganigation.
+     
+    - As an owner i want to have adonation form that i can raise money for the organization.
+    
+     - Given the donation form of the organigation.
+     
 
     
      
