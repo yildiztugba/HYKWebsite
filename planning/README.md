@@ -6,7 +6,7 @@
 
 | Day       | Time      | How          | The topic of discussion                 |
 | --------- | :-------: | :----------: | --------------------------------------  |
-| Monday    |           |              |                                         |
+| Monday    |  18:00    |   Zoom       |                                         |
 | Thusday   |           |              |                                         |
 | Wednesday |           |              |                                         |
 | Thursday  |           |              |                                         |
@@ -21,6 +21,13 @@ how often will we get in touch on each channel, and what we will discuss there:
 - **Slack Video Calls**:
 - **Issues**:
 - **Pull Requests**:
+
+## Group Rules
+
+- Try to Finish taks on time  
+- Informing team member about what she/he did
+- Help each other 
+- Being respectful to each othre 
 
 ## Availability
 
