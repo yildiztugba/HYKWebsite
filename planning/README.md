@@ -6,7 +6,7 @@
 
 | Day       | Time      | How          | The topic of discussion                 |
 | --------- | :-------: | :----------: | --------------------------------------  |
-| Monday    |  18:00    |   Zoom       |                                         |
+| Monday    |  18:00    |   Zoom       |    This week task                       |
 | Thusday   |           |              |                                         |
 | Wednesday |           |              |                                         |
 | Thursday  |           |              |                                         |
@@ -27,6 +27,7 @@ how often will we get in touch on each channel, and what we will discuss there:
 - Try to Finish taks on time  
 - Informing team member about what she/he did
 - Help each other 
+- Be on time for meetings
 - Being respectful to each othre 
 
 ## Availability
