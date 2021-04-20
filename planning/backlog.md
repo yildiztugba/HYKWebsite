@@ -23,7 +23,11 @@
   
 - As a **user** I want to see a footer with organization's address at the bottom of the website so that I can reach the address easily.
 
-  - Given the user wants to copy the address, It should be type of text to copy easily.git 
+  - Given the user wants to copy the address, It should be type of text to copy easily.
+
+- As an **owner** I want the user to see organization's main goal so that I can give the user clear understanding.
+
+  - Given the owner want to see main goal strikingly, it should be with a picture under the navigation bar.
 
 ## Should-Have
 
