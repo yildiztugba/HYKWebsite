@@ -23,7 +23,7 @@
   
 - As a **user** I want to see a footer with organization's address at the bottom of the website so that I can reach the address easily.
 
-  - Given the user wants to copy the address, It should be type of text to copy easily.
+  - Given the user wants to copy the address, It should be type of text to copy easily.git 
 
 ## Should-Have
 
