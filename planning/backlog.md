@@ -13,7 +13,14 @@
 
 ## Must-Haves
 
-  
+- As a **user** I want to a logo so that I can identify the website easily.
+
+  - Given the user wants to look for a logo, It should be put in left side of the footer.
+
+- As a **user** I want to see the menu (The program,Volunteer,About, FAQ, Support us, Apply Now) so that I can figure out easily how the website works.
+
+  - Given the user wants to know where s/he currently is, there should be an outline around the selected button to prevent any confusion.
+
 ## Should-Have
 
  - As a **user** I want to see the contact form that i can contact the organization easily.
