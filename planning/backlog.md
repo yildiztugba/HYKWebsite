@@ -25,6 +25,15 @@
 
   - Given the user wants to copy the address, It should be type of text to copy easily.
 
+- As an **owner** I want the user to see organization's main goal so that I can give the user clear understanding.
+
+  - Given the owner want to see main goal strikingly, it should be with a picture under the navigation bar.
+  
+- As a **user** I want to see brief information about the website and a picture related to the organization so that I can understand what the organization is about.
+
+  - Given the user wants to read more information, there should be a "discover more" button.
+
+
 ## Should-Have
 
  - As a **user** I want to see the contact form that i can contact the organization easily.
