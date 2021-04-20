@@ -7,10 +7,10 @@
 | Day       | Time      | How          | The topic of discussion                 |
 | --------- | :-------: | :----------: | --------------------------------------  |
 | Monday    |  18:00    |   Zoom       |    This week task                       |
-| Thusday   |           |              |                                         |
+| Thusday   |  18:00    |   Zoom       |    Dev strategy                         |
 | Wednesday |           |              |                                         |
 | Thursday  |           |              |                                         |
-| Friday    |           |              |                                         |
+| Friday    |           |   Zoom       |    Retrospective                                   |
 | Saturday  |           |              |                                         |
 
 ## Communication Channels
@@ -36,11 +36,11 @@ how often will we get in touch on each channel, and what we will discuss there:
 
 | Day       |    Katia    |    Firewyni     |    Tugba     |    Deepa     |        Hasan         |
 | --------- | :---------: | :---------: | :---------: | :---------: | :-----------------: |
-| Monday    | after 13:00 | after 13:30 | between 13:30-15:30, after 19:30 |   after 10:00   | after 17:00 |
-| Tuesday   | after 13:00  | after 13:30 | between 13:30-15:30, after 19:30 |     | after 17:00 |
-| Wednesday | after 13:00 | after 13:30 | between 13:30-15:30, after 19:30 |  |     after 12:00 |
-| Thursday  | after 13:00   | after 13:30 | between 13:30-15:30, after 19:30|      | after 17:00 |
-| Friday    | after 13:00  |   between 09:00-12:00   | between 13:30-15:30|      |     after 12:00     |
+| Monday    | after 13:00 | after 13:30 | between 17:00-19:00, after 21:00 |   after 10:00   | after 17:00 |
+| Tuesday   | after 13:00  | after 13:30 | between 17:00-19:00, after 21:00 |     | after 17:00 |
+| Wednesday | after 13:00 | after 13:30 | between 17:00-19:00, after 21:00 |  |     after 12:00 |
+| Thursday  | after 13:00   | after 13:30 | between 17:00-19:00, after 21:00|      | after 17:00 |
+| Friday    | after 13:00  |   between 09:00-12:00   | between 17:00-19:00, after 21:00|      |     after 12:00     |
 
 ### How many hours everyone has per day:
 
