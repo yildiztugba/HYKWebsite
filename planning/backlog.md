@@ -37,6 +37,11 @@
 
   - Given the user wants to learn information about their impact, there should be some information about number of graduated student, percentage of graduates that find job or internship and number of alumni in europe.
 
+- As an **owner** I want to see a success story about the organization so that I can make the user to be inspired and motivated for joining the organization.
+
+  - Given the owner wants to see the success story in detail, it should contains story owner's name, job, company name, photo and his/her story.
+
+
 
 
 
