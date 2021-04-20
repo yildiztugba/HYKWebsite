@@ -1,14 +1,3 @@
-
-## Could-Haves
-
-- As a **user** I want to get an opinion where is the location of office so that I add map information.
-
-  - Given the user tries to know where the hack your future office is, it should be a live map for searching and adding on the map.
-  
-- As a **user** I want social media icons in the website so that I can follow hackyourfuture via social media and get some more information about it.
-
-  - Given the user wants to find the icons easily, they should be prominent on the footer.
-
 # Backlog
 
 ## Must-Haves
@@ -32,7 +21,14 @@
 - As a **user** I want to see brief information about the website and a picture related to the organization so that I can understand what the organization is about.
 
   - Given the user wants to read more information, there should be a "discover more" button.
+  
+- As a **user**, I want to see organization's impact on the homepage so that I can understand how much reliable the organization is.
 
+  - Given the user wants to learn information about their impact, there should be some information about number of graduated student, percentage of graduates that find job or internship and number of alumni in europe.
+
+- As an **owner** I want to see a success story about the organization so that I can make the user to be inspired and motivated for joining the organization.
+
+  - Given the owner wants to see the success story in detail, it should contains story owner's name, job, company name, photo and his/her story.
 
 ## Should-Have
 
@@ -51,3 +47,13 @@
 - As a **user** i want to see the core values of the organization to understand the aims of the organization.
 
    - Given the user the core values of the organization according to commitement,Community,Openess,Diversity & inclusiveness.
+
+## Could-Haves
+
+- As a **user** I want to get an opinion where is the location of office so that I add map information.
+
+  - Given the user tries to know where the hack your future office is, it should be a live map for searching and adding on the map.
+  
+- As a **user** I want social media icons in the website so that I can follow hackyourfuture via social media and get some more information about it.
+
+  - Given the user wants to find the icons easily, they should be prominent on the footer.
