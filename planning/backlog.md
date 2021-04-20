@@ -32,6 +32,12 @@
 - As a **user** I want to see brief information about the website and a picture related to the organization so that I can understand what the organization is about.
 
   - Given the user wants to read more information, there should be a "discover more" button.
+  
+- As a **user**, I want to see organization's impact on the homepage so that I can understand how much reliable the organization is.
+
+  - Given the user wants to learn information about their impact, there should be some information about number of graduated student, percentage of graduates that find job or internship and number of alumni in europe.
+
+
 
 
 ## Should-Have
