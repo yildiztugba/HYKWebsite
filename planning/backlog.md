@@ -13,7 +13,7 @@
 
 ## Must-Haves
 
-- As a **user** I want to a logo so that I can identify the website easily.
+- As a **user** I want to see a logo so that I can identify the website easily.
 
   - Given the user wants to look for a logo, It should be put in left side of the footer.
 
