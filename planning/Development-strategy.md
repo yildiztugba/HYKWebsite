@@ -65,3 +65,74 @@
 - "div": margin,margin-bottom,padding,border,font-size,font-style,vertical-align,text-decoration,box-sizing,font-family
 
 - "section": margin,padding,border,font-size,font-style,vertical-align,text-decoration,box-sizing,font-family
+
+### `type: html` (our successes story)
+
+- section with class called "our successes story"
+
+  - Title with h2, class called "Demo"
+
+     - div with class called "gita"
+
+     - div with class called "suc"
+
+     - div with class called "pic"
+
+     - Title with h4, class called "name"
+   
+     - Title with h5, class called "pos"
+    
+     - p-class called "bio"
+
+ ### `type: css`(Result)    
+ 
+ - h2  "demo":
+    - [ ] align:left
+    - [ ] color:blue
+   
+ - "pic"
+    - [ ] width: 250px
+    - [ ] height: 250px
+    - [ ] margin: 100px
+    - [ ] float: left
+    - [ ] margin: auto auto 20px
+    - [ ] background-position: center center
+    - [ ] filter: grayscale(100%)
+    - [ ] float: left
+    - [ ] margin-top: 0%
+    - [ ] margin-left: 1%
+    - [ ] border-radius: 50
+ 
+ - "name":
+  
+   - [ ] margin: 4%
+   - [ ] font-size: 18px
+   - [ ] color: blue
+   - [ ] margin-left: 20%
+   - [ ] margin-right: 2%
+ 
+ - "pos":
+ 
+  - [ ] margin-left: 20%
+  - [ ] margin-right: 9%
+ 
+ - "name":
+
+  - [ ] color:blue
+  - [ ] margin-left: 20%
+  - [ ] margin-right: 9%
+  - [ ] font-size: 18px
+
+ - "bio":
+ 
+  - [ ] margin-top: 2%
+  - [ ] margin-left: 20%
+  - [ ] margin-right: 9%
+ 
+ 
+ 
+
+
+
+
+
