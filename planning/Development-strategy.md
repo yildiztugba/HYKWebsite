@@ -1,5 +1,9 @@
 # Development strategy
 
+## `for: Header`
+- section with class called "header"
+  - div with class called "header"
+
 ## `for: Result`
 
 ### `type: html` (Result)
@@ -66,6 +70,8 @@
 
 - "section": margin,padding,border,font-size,font-style,vertical-align,text-decoration,box-sizing,font-family
 
+## `for: Sucesses story`
+
 ### `type: html` (our successes story)
 
 - section with class called "our successes story"
@@ -84,7 +90,7 @@
     
     - p-class called "bio"
 
- ### `type: css`(Result)    
+ ### `type: css`(successes story)    
  
  - h2  "demo": align:left
     
