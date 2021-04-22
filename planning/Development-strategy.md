@@ -70,64 +70,34 @@
 
 - section with class called "our successes story"
 
-  - Title with h2, class called "Demo"
+    - Title with h2, class called "Demo"
 
-     - div with class called "gita"
+      - div with class called "gita"
 
-     - div with class called "suc"
+      - div with class called "suc"
 
-     - div with class called "pic"
+      - div with class called "pic"
 
-     - Title with h4, class called "name"
+    - Title with h4, class called "name"
    
-     - Title with h5, class called "pos"
+    - Title with h5, class called "pos"
     
-     - p-class called "bio"
+    - p-class called "bio"
 
  ### `type: css`(Result)    
  
- - h2  "demo":
-    - [ ] align:left
-    - [ ] color:blue
-   
- - "pic"
-    - [ ] width: 250px
-    - [ ] height: 250px
-    - [ ] margin: 100px
-    - [ ] float: left
-    - [ ] margin: auto auto 20px
-    - [ ] background-position: center center
-    - [ ] filter: grayscale(100%)
-    - [ ] float: left
-    - [ ] margin-top: 0%
-    - [ ] margin-left: 1%
-    - [ ] border-radius: 50
+ - h2  "demo": align:left
+    
+ - "pic": width,height,margin,float,background-position,filter,float,margin-top,margin-left,border-radius
+    
+ - "name": margin,font-size,color,margin-left,margin-right
  
- - "name":
-  
-   - [ ] margin: 4%
-   - [ ] font-size: 18px
-   - [ ] color: blue
-   - [ ] margin-left: 20%
-   - [ ] margin-right: 2%
+ - "pos": margin-left,margin-right
  
- - "pos":
- 
-  - [ ] margin-left: 20%
-  - [ ] margin-right: 9%
- 
- - "name":
+ - "name": color,margin-left,margin-right,font-size
 
-  - [ ] color:blue
-  - [ ] margin-left: 20%
-  - [ ] margin-right: 9%
-  - [ ] font-size: 18px
-
- - "bio":
+ -  "bio": margin-top,margin-left,margin-right
  
-  - [ ] margin-top: 2%
-  - [ ] margin-left: 20%
-  - [ ] margin-right: 9%
  
  
  
