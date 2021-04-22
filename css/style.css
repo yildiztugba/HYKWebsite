@@ -94,23 +94,14 @@ ul {
 .navbar {
   background-color: #ffffff;
   height: 70px;
-  -webkit-box-align: center;
-  align-items: center;
-  box-shadow: none;
-  box-sizing: border-box;
   display: flex;
-  flex-direction: row;
-  -webkit-box-flex: 0;
-  height: 100%;
-  -webkit-box-pack: start;
-  justify-content: flex-start;
+  flex-direction: column;
   max-height: none;
   max-width: 1280px;
   width: 100%;
   z-index: 0;
   position: static;
   background: none 0% 0% / auto transparent;
-  flex: 0 1 100%;
   margin: auto;
   padding: 0px;
 }
