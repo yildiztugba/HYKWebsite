@@ -65,3 +65,44 @@
 - "div": margin,margin-bottom,padding,border,font-size,font-style,vertical-align,text-decoration,box-sizing,font-family
 
 - "section": margin,padding,border,font-size,font-style,vertical-align,text-decoration,box-sizing,font-family
+
+### `type: html` (our successes story)
+
+- section with class called "our successes story"
+
+    - Title with h2, class called "Demo"
+
+      - div with class called "gita"
+
+      - div with class called "suc"
+
+      - div with class called "pic"
+
+    - Title with h4, class called "name"
+   
+    - Title with h5, class called "pos"
+    
+    - p-class called "bio"
+
+ ### `type: css`(Result)    
+ 
+ - h2  "demo": align:left
+    
+ - "pic": width,height,margin,float,background-position,filter,float,margin-top,margin-left,border-radius
+    
+ - "name": margin,font-size,color,margin-left,margin-right
+ 
+ - "pos": margin-left,margin-right
+ 
+ - "name": color,margin-left,margin-right,font-size
+
+ -  "bio": margin-top,margin-left,margin-right
+ 
+ 
+ 
+ 
+
+
+
+
+
