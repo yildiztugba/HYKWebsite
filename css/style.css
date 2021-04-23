@@ -171,6 +171,7 @@ ul {
   z-index: 1;
   flex: 0 0 auto;
 }
+
 .resultLayout {
   display: flex;
   flex-direction: column;
@@ -183,6 +184,7 @@ ul {
   padding: 10px 0px;
   margin: 0px auto;
 }
+
 .resultBox {
   display: flex;
   flex-direction: column;
@@ -233,6 +235,7 @@ ul {
   -moz-box-pack: justify;
   justify-content: space-between;
 }
+
 .columnOfTable {
   display: flex;
   flex-direction: column;
@@ -240,6 +243,7 @@ ul {
   width: 30%;
   padding: 20px;
 }
+
 .cTitle {
   font-size: 26px;
   line-height: 140%;
@@ -264,4 +268,118 @@ ul {
   word-break: break-word;
   font-weight: 300;
 }
+
+/* successes stort */
+.suc-sto {
+background-color: rgba(211, 211, 211, 0.322);
+width: 1390px;
+height: 450px;
+border: 0px solid black;
+padding-left: 0px;
+padding-top:5px ;
+padding-bottom:26px ;
+padding-right: 32px;
+margin: 20px;
+}
+
+.container {
+width: 100%;
+max-width: 100%;
+min-height: 500px;
+box-sizing: border-box;
+text-align: center;
+box-shadow: rgba(0, 0, 0, 0.267) 0px 0px 53px;
+padding: 50px;
+margin-top: -35%;
+margin-bottom: 3%;
+margin-left: -7%;
+margin-right: 7%;
+font-size: 0%;
+}
+    
+.demo {
+text-align: center;
+color: blue;
+font-size: 24px;
+font-style: uppercase;
+margin-top: 20%;
+}
+
+.pic {
+width: 250px;
+height: 255px;
+margin: 100px;
+float: left;
+margin: auto auto 20px;
+background-position: center center;
+filter: grayscale(100%);
+float: left;
+margin-top: 4%;
+margin-left: 4%;
+border-radius: 50%;
+margin-right: 3%;
+}
+    
+.name {
+color:blue;
+margin-left: 25%;
+margin-right: 9%;
+font-size: 18px;
+margin-top: 6%;
+}
+
+ .pos {
+margin-left: 25%;
+margin-right: 9%;
+}
+    
+.bio {
+    
+margin-top: 2%;
+margin-left: 25%;
+margin-right: 9%;
+margin-bottom: 2%;
+}
+    
+.demo {
+text-align: center;
+color: rgba(39, 39, 219, 0.911);
+margin-top: 3% ;
+}
+    
+.pic2 {
+width: 250px;
+height: 250px;
+margin: 100px;
+float: left;
+margin: auto auto 20px;
+background-position: center center;
+filter: grayscale(100%);
+float: left;
+margin-top: -18%;
+margin-left: 43%;
+border-radius: 50%;
+margin-bottom:  0%; 
+border-radius: 50%;
+}
+
+.name2 {
+color:blue;
+margin-left: 0%;
+margin-left: 70%;
+font-size: 18px;
+margin-top: -21%;
+}
+
+.pos2 {
+margin-left: 70%;
+margin-right: 9%;
+}
+    
+.bio2 {
+margin-top: 2%;
+margin-left: 70%;
+margin-right: 9%;
+}
+    
 /*END RESULT PART */
