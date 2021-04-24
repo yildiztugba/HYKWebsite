@@ -89,6 +89,12 @@ ul {
   background-color: #ffffff;
   padding: 20px 10px;
 }
+.container_header {
+  width: 1440px;
+  margin: 0 auto;
+  padding: 0 40px;
+}
+
 .logo img {
   height: 52px;
   width: auto;
