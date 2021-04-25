@@ -125,22 +125,22 @@
 - "footer": padding,position,box-shadow,background,flex,disply,-moz-box-pack,justtify-center,width,margin,border,font-size,font-style,vertical-align,
 
            
-      box-sizing,font-familliy
+     box-sizing,font-familliy
     
 - "container":display,flex-direction,-moz-box-pack,justify-content,-moz-box-align,align-items,max-width,padding,margin,font-size,font-style,text-decoration,
 
 
-      box- sizing,border-box,font-family
+     box- sizing,border-box,font-family
     
 - "box": -moz-box-align,align-items,background,box-shadow,box-sizing,border-box,flex,flex-direction,-moz-box-flex,height,-moz-box-pack,
 
  
-      justify-content,width,position,border,font-size,font-style,vertical-align,font-family
+     justify-content,width,position,border,font-size,font-style,vertical-align,font-family
 
 - "demo": font-size,line-height,margin,text-transform,font-family,font-weight,color,text-align,max-width,padding,border,font-style,vertical-lign,box-sizing,
 
 
-      font-family,
+     font-family,
  
 - "place": color,text-align,max-width,line-height,font-size,font-family,margin,white-space,word-break,font-weight,font-style,text-decoration,box-sizing,
 
