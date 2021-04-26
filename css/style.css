@@ -300,6 +300,20 @@ ul {
   font-weight: 300;}
 
 /* successes story */
+
+.padding-suc-sto {
+  display: flex;
+  -moz-box-pack: center;
+  justify-content: center;
+  width: 100%;
+  padding: 0px;
+  position: relative;
+  box-shadow: none;
+  background: rgb (0, 0, 0, 0) none repeat scroll 0% 0%;
+  z-index: 1;
+  flex: 0 0 auto;
+}
+
 .suc-sto {
   background-color: rgba(211, 211, 211, 0.322);
   width: 1390px;
