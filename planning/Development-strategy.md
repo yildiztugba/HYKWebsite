@@ -118,6 +118,16 @@
 
 ### `type: css`(Core Values)
 
+- "padding-core-values":display,-moz-box-pack,justify-content,width,padding,position,box-shadow,background, z-index,flex
+- "margin-core-values":display, flex-direction,-moz-box-pack,justify-content,-moz-box-align,align-items,width,max-width,padding,margin
+- "table-core-values": display,background-color,padding,flex-direction
+- "title-core-values": font-size,line-height,margin-bottom,text-transform,font-family,font-weight,color,text-align,max-width
+- "box-core-values":display,flex-wrap,-moz-box-flex,flex-grow,-moz-box-pack,justify-content
+- "one-value":  display,width,flex-direction,align-items
+- "image-one-value": width,height,object-fit,border-radius
+- "title-one-value:font-size,line-height,margin-bottom,text-transform,font-family,font-weight,color,text-align,max-width
+- "info-one-value":color,text-align,max-width,line-height,font-size,font-family,margin,white-space,word-break,font-weight
+
 ## `for: Sucesses story`
 
 ### `type: html` (our successes story)
