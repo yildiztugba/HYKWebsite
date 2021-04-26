@@ -74,6 +74,48 @@
 
 ### `type: html` (Core Values)
 
+- section with class called "padding-core-values"
+  
+  - div with class called "margin-core-values"
+  
+    - div with class called "table-core-values"
+
+      - Title with class called "title-core-values"
+
+      - div with class called "box-core-values"
+
+        - div with class called "one-value one-value-2"
+
+          - image with class called "image-one-value"
+
+          - title with class called "title-one-value"
+
+          - information with class called "info-one-value"
+
+        - div with class called "one-value one-value-2"
+
+          - image with class called "image-one-value"
+
+          - title with class called "title-one-value"
+
+          - information with class called "info-one-value"
+
+        - div with class called "one-value one-value-2"
+
+          - image with class called "image-one-value"
+
+          - title with class called "title-one-value"
+
+          - information with class called "info-one-value"
+
+        - div with class called "one-value one-value-2"
+
+          - image with class called "image-one-value"
+
+          - title with class called "title-one-value"
+
+          - information with class called "info-one-value"
+
 ### `type: css`(Core Values)
 
 ## `for: Sucesses story`
