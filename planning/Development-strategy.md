@@ -70,6 +70,12 @@
 
 - "section": margin,padding,border,font-size,font-style,vertical-align,text-decoration,box-sizing,font-family
 
+## `for: Core Values`
+
+### `type: html` (Core Values)
+
+### `type: css`(Core Values)
+
 ## `for: Sucesses story`
 
 ### `type: html` (our successes story)
