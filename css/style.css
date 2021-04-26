@@ -20,42 +20,8 @@ main {
   width: 100%;
   box-sizing: border-box;
 }
-p {
-  margin: 0;
-  padding: 0;
-  border: 0;
-  font-size: 100%;
-  font-style: normal;
-  vertical-align: baseline;
-  text-decoration: none;
-  box-sizing: border-box;
-  font-family: sans-serif;
-}
-h1 {
-  margin: 0;
-  margin-bottom: 0px;
-  padding: 0;
-  border: 0;
-  font-size: 100%;
-  font-style: normal;
-  vertical-align: baseline;
-  text-decoration: none;
-  box-sizing: border-box;
-  font-family: sans-serif;
-}
-h2 {
-  margin: 0;
-  margin-bottom: 0px;
-  padding: 0;
-  border: 0;
-  font-size: 100%;
-  font-style: normal;
-  vertical-align: baseline;
-  text-decoration: none;
-  box-sizing: border-box;
-  font-family: sans-serif;
-}
-div {
+
+div, img , section, h2, h1 ,p, h3{
   margin: 0;
   margin-bottom: 0px;
   padding: 0;
@@ -71,17 +37,6 @@ ul {
   list-style-type: none;
 }
 
-.section {
-  margin: 0;
-  padding: 0;
-  border: 0;
-  font-size: 100%;
-  font-style: normal;
-  vertical-align: baseline;
-  text-decoration: none;
-  box-sizing: border-box;
-  font-family: sans-serif;
-}
 /* Utilities */
 
 /*HEADER (Katia)*/
@@ -250,6 +205,99 @@ ul {
   word-break: break-word;
   font-weight: 300;
 }
+/*Core Values*/
+
+.padding-our-values{
+  display: flex;
+  -moz-box-pack: end;
+  justify-content: flex-end;
+  width: 100%;
+  padding: 50px 0px;
+  position: relative;
+  box-shadow: none;
+  background: rgba(0, 0, 0, 0) none repeat scroll 0% 0%;
+  z-index: 1;
+  flex: 0 0 auto;
+}
+
+.margin-our-values{
+  display: flex;
+  flex-direction: column;
+  -moz-box-pack: center;
+  justify-content: center;
+  -moz-box-align: center;
+  align-items: center;
+  width: 100%;
+  max-width: 1280px;
+  padding: 10px 0px;
+  margin: 0px;
+}
+
+.table-our-values{
+  display: flex;
+  background-color: rgb(248, 249, 252);
+  padding: 100px;
+  flex-direction: column;}
+
+.title-our-values{
+  font-size: 24px;
+  line-height: 140%;
+  margin-bottom: 20px;
+  text-transform: uppercase;
+  font-family: "Work Sans", sans-serif;
+  font-weight: 700;
+  color: rgb(28, 34, 148);
+  text-align: left;
+  max-width: none;}
+
+.box-our-values{display: flex;
+  flex-wrap: wrap;
+  -moz-box-flex: 1;
+  flex-grow: 1;
+  -moz-box-pack: justify;
+  justify-content: space-between;}
+
+  .box-our-values > .one-value2:nth-child(1) {
+    margin-bottom: 50px;
+}
+
+.one-value{
+  display: flex;
+  width: 40%;
+  flex-direction: column;
+  align-items: flex-start;}
+
+  .one-value > img {
+    margin-bottom: 20px;
+    min-height: 70px;
+    object-fit: contain;
+}
+.image-one-value{
+  width: auto;
+  height: auto;
+  object-fit: fill;
+  border-radius: 0px;}
+.title-one-value{
+  font-size: 20px;
+  line-height: 140%;
+  margin-bottom: 20px;
+  text-transform: none;
+  font-family: "Work Sans", sans-serif;
+  font-weight: 700;
+  color: rgb(28, 34, 148);
+  text-align: left;
+  max-width: none;}
+.info-one-value{
+  color: rgb(45, 48, 55);
+  text-align: left;
+  max-width: none;
+  line-height: 160%;
+  font-size: 16px;
+  font-family: "Space Mono", monospace;
+  margin: 0px;
+  white-space: pre-wrap;
+  word-break: break-word;
+  font-weight: 300;}
 
 /* successes story */
 .suc-sto {
