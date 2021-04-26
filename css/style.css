@@ -207,7 +207,7 @@ ul {
 }
 /*Core Values*/
 
-.padding-our-values{
+.padding-core-values{
   display: flex;
   -moz-box-pack: end;
   justify-content: flex-end;
@@ -220,7 +220,7 @@ ul {
   flex: 0 0 auto;
 }
 
-.margin-our-values{
+.margin-core-values{
   display: flex;
   flex-direction: column;
   -moz-box-pack: center;
@@ -233,13 +233,13 @@ ul {
   margin: 0px;
 }
 
-.table-our-values{
+.table-core-values{
   display: flex;
   background-color: rgb(248, 249, 252);
   padding: 100px;
   flex-direction: column;}
 
-.title-our-values{
+.title-core-values{
   font-size: 24px;
   line-height: 140%;
   margin-bottom: 20px;
@@ -250,14 +250,14 @@ ul {
   text-align: left;
   max-width: none;}
 
-.box-our-values{display: flex;
+.box-core-values{display: flex;
   flex-wrap: wrap;
   -moz-box-flex: 1;
   flex-grow: 1;
   -moz-box-pack: justify;
   justify-content: space-between;}
 
-  .box-our-values > .one-value2:nth-child(1) {
+  .box-core-values > .one-value2:nth-child(1) {
     margin-bottom: 50px;
 }
 
