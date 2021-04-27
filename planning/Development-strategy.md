@@ -161,6 +161,40 @@
  - "name": color,margin-left,margin-right,font-size
 
  -  "bio": margin-top,margin-left,margin-right
+ 
+## `for: Support the developers`
+
+### `type: html` (Support the developers)
+
+- section with class called "section-support"
+
+    - div with class called "outer-container"
+
+      - div with class called "inner-container"
+
+        - div with class called "div-support"
+
+          - div with class called "div-content"
+
+            - Title with h1, class called "support-title"
+    
+            - p-class called "support-paragraph"
+
+### `type: css`(support the developers) 
+
+- "section-support": display,justify-content,width,padding,position,box-shadow,background,flex 
+
+- "outer-container": display,flex-direction,justify-content,align-items,width,max-width,padding,margin
+
+- "inner-container": display,width,overflow
+
+- "div-support": display,flex-direction,column,width,padding-right
+
+- "div-content": align-items,background,box-shadow,box-sizing,display,flex-direction,height,margin,max-height,max-width,padding,width
+
+- "support-title": font-size,color,text-align,font-family,font-weight
+
+- "support-paragraph" : text-align,color,font-size,font-family,font-weight
 
 ## `for: footer`
 
