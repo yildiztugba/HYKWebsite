@@ -3,6 +3,21 @@
 ## `for: Header`
 - section with class called "header"
   - div with class called "header"
+## `for: Our Program`
+### `type: html` (Our Program)
+- section with class called "our-program"
+  - div with class called "explanation-wrapper"
+    - div with class called "explanation"
+    - Title with h2, class called "op-title"
+    - Information with p, class called "program-info"
+  - div with class called "exp-img-outer"
+  - div with class called "exp-img"
+### `type: css`
+- "our-program": display, justify-content,width,padding,position,box-shadow,background,z-index,flex
+- "explanation-wrapper" : width,display,margin
+- "explanation": display, flex, align-items
+- "op-title": padding, font-size, line-height
+- "program-info": padding, font-size, line-height
 
 ## `for: Result`
 
