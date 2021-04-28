@@ -599,6 +599,9 @@ ul {
     margin-right: 9%;
 }
 
+
+/* footer part */
+
 .footer {
 padding-top: 50px;
 padding-right: 20px;
@@ -646,6 +649,7 @@ text-decoration: none;
 box-sizing: border-box;
 font-family: sans-serif;
 }
+
 .box {
 -moz-box-align: center;
 align-items: center;
@@ -671,6 +675,7 @@ font-style: normal;
 vertical-align: baseline;
 font-family: sans-serif;
 }
+
 .demo{
 font-size: 24px;
 line-height: 140%;
@@ -689,7 +694,8 @@ text-decoration: none;
 box-sizing: border-box;
 font-family: sans-serif;
 }
-.place{
+
+.place {
 color: rgb(45, 48, 55);
 text-align: left;
 max-width: none;
@@ -704,7 +710,8 @@ font-style: normal;
 text-decoration: none;
 box-sizing: border-box;
 }
-.place1{
+
+.place1 {
 color: rgb(45, 48, 55);
 text-align: center;
 max-width: none;
