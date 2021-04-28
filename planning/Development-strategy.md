@@ -177,6 +177,36 @@
 
  -  "bio": margin-top,margin-left,margin-right
  
+ ## `for: Our Partners`
+ 
+ ### `type: html`(Our Partners)
+ - section with class called "our-partners"
+   
+   - div with class called "our-partners-box"
+     
+     -div with class called "box-title"
+     
+      -h2 with class called "our-partner-title"
+     
+      -link button for "become a partner"
+     
+        -svg with class called "right-arrow"
+     
+     - div with class called "partners-box"
+      
+      -*12 div with partners logos
+
+### `type: css`(Our Partners)
+
+- our-partners: display, justify-content, width, padding.
+
+- our-partners-box: display, flex-direction, justify-content, max-width.
+
+- box-title: display, width, justify-content
+
+- h2 : margin, font-size, font-family
+
+- logos: align-items, webkit-box-align, display
 ## `for: Support the developers`
 
 ### `type: html` (Support the developers)
