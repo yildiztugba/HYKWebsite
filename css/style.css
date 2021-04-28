@@ -62,7 +62,7 @@ ul {
     padding: 0 40px;
 }
 
-.logo img {
+.plogo img {
     height: 52px;
     width: auto;
     cursor: pointer;
@@ -597,6 +597,133 @@ ul {
     margin-top: 2%;
     margin-left: 70%;
     margin-right: 9%;
+}
+
+
+/* our partners */
+
+.our-partners {
+    display: flex;
+    -webkit-box-pack: center;
+    justify-content: center;
+    width: 100%;
+    padding: 50px 20px;
+    position: relative;
+    box-shadow: none;
+    background: none;
+    z-index: 1;
+    flex: 0 0 auto;
+}
+
+.our-partners-wrapper {
+    display: flex;
+    flex-direction: column;
+    -webkit-box-pack: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    align-items: center;
+    width: 100%;
+    max-width: 1280px;
+    padding: 10px 0px;
+    margin: 0px auto;
+}
+
+.our-partners-box {
+    display: flex;
+    flex-direction: column;
+    -webkit-box-pack: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    align-items: center;
+    width: 100%;
+    max-width: 1280px;
+    padding: 10px 0px;
+    margin: 0px auto;
+}
+
+.box-title {
+    display: flex;
+    width: 100%;
+    -webkit-box-pack: justify;
+    justify-content: space-between;
+    -webkit-box-align: center;
+    align-items: center;
+}
+
+.our-partner-title {
+    font-size: 24px;
+    line-height: 140%;
+    margin-bottom: 20px;
+    text-transform: uppercase;
+    font-family: "Work Sans Bold", sans-serif;
+    font-weight: 700;
+    color: rgb(28, 34, 148);
+    text-align: left;
+    max-width: none;
+}
+
+.become-partner {
+    display: inline-flex;
+    font-size: 12px;
+    line-height: 160%;
+    text-decoration: none;
+    font-weight: 600;
+    border: 1px solid transparent;
+    border-radius: 4px;
+    box-sizing: border-box;
+    padding: 10px 20px;
+    cursor: pointer;
+    text-transform: uppercase;
+    -webkit-box-align: center;
+    align-items: center;
+    font-family: "Work Sans Bold", sans-serif;
+    background-color: transparent;
+    color: rgb(74, 80, 187);
+}
+
+.right-arrow {
+    display: inline-block;
+    font-size: inherit;
+    height: 1em;
+    overflow: visible;
+    vertical-align: -0.125em;
+}
+
+.partners-box {
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    -webkit-box-pack: justify;
+    justify-content: space-between;
+}
+
+.plogo {
+    -webkit-box-align: stretch;
+    align-items: stretch;
+    box-shadow: none;
+    box-sizing: border-box;
+    display: inline-block;
+    flex-direction: row;
+    -webkit-box-flex: 0;
+    height: auto;
+    -webkit-box-pack: start;
+    justify-content: flex-start;
+    max-height: none;
+    max-width: none;
+    width: 170px;
+    z-index: 0;
+    position: static;
+    background: none 0% 0% / auto transparent;
+    flex: 0 1 170px;
+    margin: 0px;
+    padding: 0px;
+}
+
+.company {
+    width: 100%;
+    height: auto;
+    object-fit: fill;
+    border-radius: 0px;
 }
 
 
