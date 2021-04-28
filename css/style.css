@@ -599,5 +599,127 @@ ul {
     margin-right: 9%;
 }
 
+.footer {
+padding-top: 50px;
+padding-right: 20px;
+padding-bottom: 50px;
+padding-left:20px;
+position: relative;
+box-shadow: rgba(0, 0, 0, 0.08) 0px 0px 53px;
+background: rgba(0, 0, 0, 0) none repeat scroll 0% 0%;
+flex: 0 0 auto;
+display: flex;
+-moz-box-pack: center;
+justify-content: center;
+width: 100%;
+margin: 0;
+border: 0;
+font-size: 100%;
+font-style: normal;
+vertical-align: baseline;
+box-sizing: border-box;
+font-family: sans-serif;
+}
+
+.container {
+display: flex;
+flex-direction: column;
+-moz-box-pack: center;
+justify-content: center;
+-moz-box-align: center;
+align-items: center;
+width: 100%;
+max-width: 1380px;
+margin-left:auto;
+margin-top:0;
+margin-right:auto;
+margin-bottom:0px;
+padding-left:0px;
+padding-right:0px;
+padding-bottom:10px;
+padding-top:10px;
+margin: 0px auto;
+border: 0;
+font-size: 100%;
+font-style: normal;
+text-decoration: none;
+box-sizing: border-box;
+font-family: sans-serif;
+}
+.box {
+-moz-box-align: center;
+align-items: center;
+background: transparent none repeat scroll 0% 0%;
+box-shadow: none;
+box-sizing: border-box;
+display: flex;
+flex: 0 1 100%;
+flex-direction: column;
+-moz-box-flex: 0;
+height: auto;
+-moz-box-pack: start;
+justify-content: flex-start;
+margin: 0px;
+max-height: none;
+max-width: none;
+padding: 0px;
+width: 100%;
+position: static;
+border: 0;
+font-size: 100%;
+font-style: normal;
+vertical-align: baseline;
+font-family: sans-serif;
+}
+.demo{
+font-size: 24px;
+line-height: 140%;
+margin-bottom: 20px;
+text-transform: uppercase;
+font-family: "Work Sans", sans-serif;
+font-weight: 700;
+color: rgb(28, 34, 148);
+text-align: left;
+max-width: none;
+padding: 0px;
+border: 0;
+font-style: normal;
+vertical-align: baseline;
+text-decoration: none;
+box-sizing: border-box;
+font-family: sans-serif;
+}
+.place{
+color: rgb(45, 48, 55);
+text-align: left;
+max-width: none;
+line-height: 189%;
+font-size: 16px;
+font-family: "Space Mono", monospace;
+margin: 0px;
+white-space: pre-wrap;
+word-break: break-word;
+font-weight: 400;
+font-style: normal;
+text-decoration: none;
+box-sizing: border-box;
+}
+.place1{
+color: rgb(45, 48, 55);
+text-align: center;
+max-width: none;
+line-height: 160%;
+font-size: 16px;
+font-family: "Space Mono", monospace;
+margin: 0px;
+white-space: pre-wrap;
+word-break: break-word;
+font-weight: 300;
+font-style: normal;
+vertical-align: baseline;
+text-decoration: none;
+box-sizing: border-box;
+}
+
 
 /*END RESULT PART */
