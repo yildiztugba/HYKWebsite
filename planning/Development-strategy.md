@@ -280,7 +280,7 @@
 
 -"mainscreen__form__input" color, border, border-radius, outline, background-color, padding, width
 
--"mainscreen__form__input" color, border, border-radius, outline, background-color, padding, width, margin-bottom
+-"mainscreen__form__message" color, border, border-radius, outline, background-color, padding, width, margin-bottom
 
 -"mainscreen__form__button" display, font-size, line-height, text-decoration, background-color, color, font-weight, border, border-radius, box-sizing, padding, cursor, text-transform, -webkit-box-align, align-items, font-family
 
