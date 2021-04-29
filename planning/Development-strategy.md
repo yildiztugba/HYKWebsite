@@ -241,6 +241,35 @@
 
 - "support-paragraph" : text-align,color,font-size,font-family,font-weight
 
+## `for: Contact US`
+
+### `type: html` (contact us)
+- section with class called "mainscreen"
+
+    - div with class called "container__mainscreen"
+
+      - div with class called "mainscreen_contactus"
+
+        - Title h1 with class called "mainscreen__header"
+
+          - p-class with class called "mainscreen_form"
+
+            - form with cless called "mainscreen__form"
+             - label with class called "mainscreen__form__name"
+             - button with class called "mainscreen__form__button"
+    
+      - div with class called "mainscreen__center"
+      - div style with class called "mainscreen__img"
+  
+### `type: css`(contact us)
+- "mainscreen": display,-webkit-box-pack justify-content,width,padding,position,box-shadow,background,z-index, flex 
+
+- "container__mainscreen": display,width
+- "mainscreen_contactus" : display,flex-direction, width, height, background-color, padding
+
+-"mainscreen__header": font-size,line-height margin-bottom, text-transform, font-family font-weight, color, text-align, max-width
+
+- 
 ## `for: footer`
 
 ### `type: html` (footer)
