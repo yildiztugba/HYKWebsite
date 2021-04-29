@@ -31,7 +31,7 @@
 
 ### `type: html` (Main Image)
 
-- section with class called "container_header"
+- section with class called "container img"
 
   - img with class called "img-fluid"
 
