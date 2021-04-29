@@ -60,7 +60,7 @@ ul {
   padding: 0 40px;
 }
 
-.plogo img {
+.logo img {
   height: 52px;
   width: auto;
   cursor: pointer;
@@ -979,3 +979,127 @@ ul {
 }
 
 /* END SUPPORT DEVELOPERS */
+/*CONTACT US*/
+.mainscreen {
+  display: flex;
+  -webkit-box-pack: center;
+  justify-content: center;
+  width: 100%;
+  padding: 0px;
+  position: relative;
+  box-shadow: none;
+  background: none;
+  z-index: 1;
+  flex: 0 0 auto;
+}
+.container__mainscreen {
+  display: flex;
+  width: 100%;
+}
+.mainscreen_contactus {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  background-color: rgb(74, 80, 187);
+  padding: 50px 100px;
+}
+.mainscreen__header {
+  font-size: 24px;
+  line-height: 140%;
+  margin-bottom: 20px;
+  text-transform: uppercase;
+  font-family: "Work Sans", sans-serif;
+  font-weight: 700;
+  color: rgb(255, 255, 255);
+  text-align: left;
+  max-width: none;
+}
+
+.mainscreen_form {
+  color: white;
+  text-align: left;
+  max-width: 500px;
+  line-height: 160%;
+  font-size: 16px;
+  font-family: "Space Mono", monospace;
+  margin: 0px 0px 20px;
+  white-space: pre-wrap;
+  word-break: break-word;
+  font-weight: 300;
+}
+.mainscreen__form {
+  display: flex;
+  flex-direction: column;
+  max-width: 500px;
+  align-items: flex-start;
+}
+.mainscreen__form__name {
+  color: white;
+  text-align: left;
+  max-width: none;
+  line-height: 160%;
+  font-size: 16px;
+  font-family: "Space Mono", monospace;
+  margin: 20px 0px 5px;
+  white-space: pre-wrap;
+  word-break: break-word;
+  font-weight: 300;
+}
+.mainscreen__form__input {
+  border: 1px solid white;
+  border-radius: 3px;
+  outline: none;
+  background-color: transparent;
+  padding: 10px 5px;
+  color: white;
+  width: 100%;
+}
+.mainscreen__form__message {
+  border: 1px solid white;
+  border-radius: 3px;
+  outline: none;
+  padding: 10px 5px;
+  color: white;
+  background-color: transparent;
+  margin-bottom: 20px;
+  width: 100%;
+}
+.mainscreen__form__button {
+  display: inline-flex;
+  font-size: 12px;
+  line-height: 160%;
+  text-decoration: none;
+  background-color: white;
+  color: rgb(45, 48, 55);
+  font-weight: 600;
+  border: 1px solid transparent;
+  border-radius: 4px;
+  box-sizing: border-box;
+  padding: 10px 20px;
+  cursor: pointer;
+  text-transform: uppercase;
+  -webkit-box-align: center;
+  align-items: center;
+  font-family: "Work Sans", sans-serif;
+}
+
+.mainscreen__img {
+  -webkit-box-align: stretch;
+  align-items: stretch;
+  box-shadow: none;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  -webkit-box-flex: 0;
+  height: 100%;
+  -webkit-box-pack: start;
+  justify-content: flex-start;
+  max-height: none;
+  max-width: none;
+  width: 100%;
+  z-index: auto;
+  position: relative;
+  flex: 0 1 100%;
+  margin: 0px;
+  padding: 0px;
+}
