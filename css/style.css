@@ -55,7 +55,7 @@ ul {
 }
 
 .container_header {
-  width: 1440px;
+  width: 1280px;
   margin: 0 auto;
   padding: 0 40px;
 }
@@ -106,7 +106,17 @@ ul {
     float: none;
   }
 }
-
+/*MAINSCREEN*/
+.container_img {
+  width: 1280px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+.img-fluid {
+  display: flex;
+  max-width: 1280px;
+  height: auto;
+}
 /* OUR PROGRAM PART */
 
 .our-program {
