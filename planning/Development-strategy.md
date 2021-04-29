@@ -2,9 +2,16 @@
 
 ## `for: Header`
 
+### `type: html` (Header)
+
 - section with class called "header"
-  - div with class called "header"
-  
+  - div with class called "container-header"
+    - logo with class "logo"
+  - div with class "header-right"
+    - a with class "nav_link"
+    - button with class "header-right button"
+
+### `type: css` (Header)
 ## `for: Our Program`
 
 ### `type: html` (Our Program)
