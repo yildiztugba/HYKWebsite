@@ -1,9 +1,12 @@
 # Development strategy
 
 ## `for: Header`
+
 - section with class called "header"
   - div with class called "header"
+  
 ## `for: Our Program`
+
 ### `type: html` (Our Program)
 - section with class called "our-program"
   - div with class called "explanation-wrapper"
@@ -225,7 +228,7 @@
     
             - p-class called "support-paragraph"
 
-### `type: css`(support the developers) 
+### `type: css`(support the developers)
 
 - "section-support": display,justify-content,width,padding,position,box-shadow,background,flex 
 
@@ -267,9 +270,22 @@
 - "container__mainscreen": display,width
 - "mainscreen_contactus" : display,flex-direction, width, height, background-color, padding
 
--"mainscreen__header": font-size,line-height margin-bottom, text-transform, font-family font-weight, color, text-align, max-width
+-"mainscreen__header": color,text-align, max-width, font-size,line-height margin, white-space, font-family font-weight, word-break 
 
-- 
+-"mainscreen_form": font-size,line-height margin-bottom, text-transform, font-family font-weight, color, text-align, max-width
+
+-"mainscreen__form" display, flex-direction,max-width, align-items
+
+-"mainscreen__form__name" color, text-align, max-width, line-height, font-size, font-family, margin, white-space, word-break, font-weight
+
+-"mainscreen__form__input" color, border, border-radius, outline, background-color, padding, width
+
+-"mainscreen__form__input" color, border, border-radius, outline, background-color, padding, width, margin-bottom
+
+-"mainscreen__form__button" display, font-size, line-height, text-decoration, background-color, color, font-weight, border, border-radius, box-sizing, padding, cursor, text-transform, -webkit-box-align, align-items, font-family
+
+-"mainscreen__img"-webkit-box-align, align-items, box-shadow, box-sizing,  display, flex-direction, -webkit-box-flex, height, -webkit-box-pack, justify-content, max-height, max-weight, width, z-index, position, flex,  margin, padding
+
 ## `for: footer`
 
 ### `type: html` (footer)
