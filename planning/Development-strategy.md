@@ -27,6 +27,20 @@
   
 - "header-right button" border, font-weight, outline, background, color, padding, border-radius, cursor
 
+## `for: Main Image`
+
+### `type: html` (Main Image)
+
+- section with class called "container img"
+
+  - img with class called "img-fluid"
+
+### `type: css` (Main Image)
+
+- "container img" width, margin, padding
+
+- "img-fluid" display, max-width, height, max-width, line-height, margin, word-break, font-weight, margin
+
 ## `for: Our Program`
 
 ### `type: html` (Our Program)
