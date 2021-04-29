@@ -12,9 +12,25 @@
     - button with class "header-right button"
 
 ### `type: css` (Header)
+
+- "header": overflow, background, padding
+
+- "container_header": width, margin, padding
+
+- "logo img" height, width, cursor
+
+- "header a" float, color, text-align, padding, text-decoration, font-size, line-height, font-family
+
+- "header-right" float
+
+- "header-right a:hover" border-bottom
+  
+- "header-right button" border, font-weight, outline, background, color, padding, border-radius, cursor
+
 ## `for: Our Program`
 
 ### `type: html` (Our Program)
+
 - section with class called "our-program"
   - div with class called "explanation-wrapper"
     - div with class called "explanation"
@@ -22,6 +38,7 @@
     - Information with p, class called "program-info"
   - div with class called "exp-img-outer"
   - div with class called "exp-img"
+  
 ### `type: css`
 - "our-program": display, justify-content,width,padding,position,box-shadow,background,z-index,flex
 - "explanation-wrapper" : width,display,margin
@@ -170,7 +187,7 @@
     - Title with h4, class called "name"
    
     - Title with h5, class called "pos"
-    
+
     - p-class called "bio"
 
  ### `type: css`(successes story)    
