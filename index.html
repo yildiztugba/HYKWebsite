@@ -211,7 +211,35 @@
                     </p>
                   </div>
                 </div>
-                
+                <div class="container-donate">
+                    <form class="form-donate">
+                        <div class="select-donate">
+                            <label for="once" class="donate-label">
+                                <input type="radio" id="radio-once" name="donate-support" class="radio-donate">
+                                <p class="donate-times">One time</p>
+                            </label>
+                            <label for="monthly" class="donate-label">
+                                <input type="radio" id="radio-monthly" name="donate-support" class="radio-donate" checked="checked">
+                                <p class="donate-times">Monthly</p>
+                            </label>
+                        </div>
+                        <div class="options-donate">
+                            <label class="donate-times amount-labels" for="amount-options">Select your amount</label>
+                            <ul id="amount-list-id" class="amount-list">
+                                <li class="amount-options1" tabindex="0">€10</li>
+                                <li class="amount-options" tabindex="0">€25</li>
+                                <li class="amount-options" tabindex="0">€50</li>
+                                <li class="amount-options" tabindex="0">€100</li>
+                                <li class="amount-options" tabindex="0">Full scholarship</li>
+                            </ul>
+                            <label class="donate-times">Amount</label>
+                            <input type="number" class="input-donate" value="10">
+                            <label class="donate-times">Message</label>
+                            <input type="text" class="input-donate" value="">
+                        </div>
+                        <button class="donate-button">Donate</button>
+                    </form>
+                </div>
               </div>
             </div>
           </section>
