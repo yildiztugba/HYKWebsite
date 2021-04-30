@@ -989,6 +989,202 @@ ul {
 }
 
 /* END SUPPORT DEVELOPERS */
+
+/* BEGIN DONATE FORM SECTION */
+
+.container-donate {
+  display: flex;
+  flex-direction: column;
+  width: 50%;
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font-style: normal;
+  vertical-align: baseline;
+  text-decoration: none;
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+
+.form-donate {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font-style: normal;
+  vertical-align: baseline;
+  text-decoration: none;
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+
+.select-donate {
+  display: flex;
+  flex-direction: row;
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font-style: normal;
+  vertical-align: baseline;
+  text-decoration: none;
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+
+.donate-label {
+  cursor: pointer;
+  display: flex;
+  -moz-box-align: center;
+  align-items: center;
+  margin-right: 20px;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font-style: normal;
+  vertical-align: baseline;
+  text-decoration: none;
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+
+.radio-donate {
+  cursor: pointer;
+  margin-right: 10px;
+  font-size: 100%;
+  font-style: normal;
+  font-family: sans-serif;
+}
+
+.donate-times {
+  color: rgb(28, 34, 148);
+  text-align: left;
+  max-width: none;
+  line-height: 160%;
+  font-size: 16px;
+  font-family: "Work Sans", sans-serif;
+  margin: 0px;
+  white-space: pre-wrap;
+  word-break: break-word;
+  padding: 0;
+  border: 0;
+  font-style: normal;
+  vertical-align: baseline;
+  text-decoration: none;
+  box-sizing: border-box;
+  font-weight: bolder;
+}
+
+.amount-labels {
+  margin-top: 20px;
+}
+
+.options-donate {
+  display: flex;
+  flex-direction: column;
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font-style: normal;
+  vertical-align: baseline;
+  text-decoration: none;
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+
+.amount-list {
+  display: flex;
+  margin: 20px 0px;
+  list-style: none;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font-style: normal;
+  vertical-align: baseline;
+  text-decoration: none;
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+
+.amount-options1 {
+  display: flex;
+  border: 1px solid rgb(28, 34, 148);
+  color: white;
+  padding: 15px 20px;
+  cursor: pointer;
+  -moz-box-pack: center;
+  justify-content: center;
+  background-color: rgb(28, 34, 148);
+  font-family: "Work Sans", sans-serif;
+  font-weight: bolder;
+  margin: 0;
+  font-size: 100%;
+  font-style: normal;
+  vertical-align: baseline;
+  text-decoration: none;
+  box-sizing: border-box;
+}
+
+.amount-options {
+  display: flex;
+  border: 1px solid rgb(28, 34, 148);
+  color: rgb(28, 34, 148);
+  padding: 15px 20px;
+  cursor: pointer;
+  -moz-box-pack: center;
+  justify-content: center;
+  background-color: white;
+  font-family: "Work Sans", sans-serif;
+  margin: 0;
+  font-size: 100%;
+  font-style: normal;
+  vertical-align: baseline;
+  text-decoration: none;
+  box-sizing: border-box;
+  font-weight: bolder;
+}
+
+.input-donate {
+  width: 100%;
+  border-color: currentcolor currentcolor rgb(28, 34, 148);
+  border-style: none none solid;
+  border-width: medium medium 1px;
+  border-image: none 100% / 1 / 0 stretch;
+  margin: 20px 0px;
+  font-size: 18px;
+  padding: 5px;
+  box-sizing: border-box;
+  color: rgb(28, 34, 148);
+  background-color: transparent;
+  outline: currentcolor none medium;
+}
+
+.donate-button {
+  display: inline-flex;
+  font-size: 12px;
+  line-height: 160%;
+  text-decoration: none;
+  background-color: rgb(74, 80, 187);
+  color: white;
+  font-weight: bolder;
+  border: 1px solid transparent;
+  border-radius: 4px;
+  box-sizing: border-box;
+  padding: 10px 20px;
+  cursor: pointer;
+  text-transform: uppercase;
+  -moz-box-align: center;
+  align-items: center;
+  font-family: "Work Sans", sans-serif;
+}
+
+/* END DONATE FORM SECTION */
+
 /*CONTACT US*/
 .mainscreen {
   display: flex;
