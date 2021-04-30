@@ -484,42 +484,29 @@ ul {
   -moz-box-pack: center;
   justify-content: center;
   width: 100%;
-  padding: 0px;
+  padding: 10px 0px;
   position: relative;
-  box-shadow: none;
-  background: rgb (0, 0, 0, 0) none repeat scroll 0% 0%;
+  box-shadow: rgb (0, 0, 0, 0.08) 0px 0px 53px;
   z-index: 1;
   flex: 0 0 auto;
+  padding: 0px;
+  flex-direction: column;
+  -moz-box-align: center;
+  max-width: 1380px;
+  margin: 0px auto;
+  
 }
 
 .suc-sto {
-  background-color: rgba(211, 211, 211, 0.322);
-  width: 1390px;
-  height: 450px;
-  border: 0px solid black;
-  padding-left: 0px;
-  padding-top: 5px;
-  padding-bottom: 26px;
-  padding-right: 32px;
-  margin: 20px;
+ background-color: rgb(255, 255, 255);
+ width: 100%;
+ height: 550px;
+ border: 0px solid black;
+ padding: 10px 0px;
+ margin: 0px auto;
 }
 
-.container1 {
-  width: 100%;
-  max-width: 100%;
-  min-height: 500px;
-  box-sizing: border-box;
-  text-align: center;
-  box-shadow: rgba(0, 0, 0, 0.267) 0px 0px 53px;
-  padding: 50px;
-  margin-top: -35%;
-  margin-bottom: 3%;
-  margin-left: -7%;
-  margin-right: 7%;
-  font-size: 0%;
-}
-
-.demo3 {
+.demo1 {
   text-align: center;
   color: blue;
   font-size: 24px;
@@ -560,12 +547,6 @@ ul {
   margin-left: 25%;
   margin-right: 9%;
   margin-bottom: 2%;
-}
-
-.demo {
-  text-align: center;
-  color: rgba(39, 39, 219, 0.911);
-  margin-top: 3%;
 }
 
 .pic2 {
