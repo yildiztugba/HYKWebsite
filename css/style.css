@@ -505,7 +505,7 @@ ul {
 
 .demo1 {
   text-align: center;
-  color: blue;
+  color: rgb(28, 34, 148);
   font-size: 24px;
   font-style: uppercase;
   margin-top: 3%;
@@ -527,7 +527,7 @@ ul {
 }
 
 .name {
-  color: blue;
+  color: rgb(28, 34, 148);
   margin-left: 22%;
   margin-right: 9%;
   font-size: 18px;
@@ -539,6 +539,7 @@ ul {
   margin-left: 22%;
   margin-right: 9%;
   font-size: 15px;
+  color: #4A50BB;
 }
 
 .bio {
@@ -565,7 +566,7 @@ ul {
 }
 
 .name2 {
-  color: blue;
+  color: rgb(28, 34, 148);
   margin-left: 75%;
   font-size: 18px;
   margin-top: -22%;
@@ -576,6 +577,7 @@ ul {
   margin-left: 75%;
   margin-right: 9%;
   font-size: 15px;
+  color: #4A50BB;
 }
 
 .bio2 {
@@ -599,7 +601,6 @@ ul {
   background: none;
   z-index: 1;
   flex: 0 0 auto;
-  margin-top: 20%;
 }
 
 .our-partners-wrapper {
@@ -647,7 +648,7 @@ ul {
   color: rgb(28, 34, 148);
   text-align: left;
   max-width: none;
-}
+  }
 
 .become-partner {
   display: inline-flex;
