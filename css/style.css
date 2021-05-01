@@ -486,7 +486,7 @@ ul {
   width: 100%;
   padding: 10px 0px;
   position: relative;
-  box-shadow: rgb (0, 0, 0, 0.08) 0px 0px 53px;
+  box-shadow: rgb(0, 0, 0, 0.08) 0px 0px 53px;
   z-index: 1;
   flex: 0 0 auto;
   padding: 0px;
@@ -501,7 +501,6 @@ ul {
   width: 1280px;
   height: 550px;
   border: 0px solid black;
-  margin: 0px auto;
 }
 
 .demo1 {
@@ -574,7 +573,7 @@ ul {
 }
 
 .pos2 {
-  margin-left: 70%;
+  margin-left: 75%;
   margin-right: 9%;
   font-size: 15px;
 }
