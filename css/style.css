@@ -498,10 +498,9 @@ ul {
 
 .suc-sto {
   background-color: rgb(255, 255, 255);
-  width: 100%;
+  width: 1280px;
   height: 550px;
   border: 0px solid black;
-  padding: 10px 0px;
   margin: 0px auto;
 }
 
@@ -523,29 +522,30 @@ ul {
   filter: grayscale(100%);
   float: left;
   margin-top: 4%;
-  margin-left: 4%;
+  margin-left: 1%;
   border-radius: 50%;
   margin-right: 3%;
 }
 
 .name {
   color: blue;
-  margin-left: 25%;
+  margin-left: 22%;
   margin-right: 9%;
   font-size: 18px;
   margin-top: 6%;
+  line-height: 160%;
 }
 
 .pos {
-  margin-left: 25%;
+  margin-left: 22%;
   margin-right: 9%;
+  font-size: 15px;
 }
 
 .bio {
-  margin-top: 2%;
-  margin-left: 25%;
+  margin-top: 1%;
+  margin-left: 24%;
   margin-right: 9%;
-  margin-bottom: 2%;
   font-family: "Space Mono", monospace;
 }
 
@@ -558,7 +558,7 @@ ul {
   background-position: center center;
   filter: grayscale(100%);
   float: left;
-  margin-top: -18%;
+  margin-top: -19%;
   margin-left: 43%;
   border-radius: 50%;
   margin-bottom: 0%;
@@ -567,22 +567,24 @@ ul {
 
 .name2 {
   color: blue;
-  margin-left: 0%;
-  margin-left: 70%;
+  margin-left: 75%;
   font-size: 18px;
-  margin-top: -21%;
+  margin-top: -22%;
+  line-height: 160%;
 }
 
 .pos2 {
   margin-left: 70%;
   margin-right: 9%;
+  font-size: 15px;
 }
 
 .bio2 {
-  margin-top: 2%;
-  margin-left: 70%;
-  margin-right: 9%;
+  margin-top: 1%;
+  margin-left: 75%;
+  margin-right: 1%;
   font-family: "Space Mono", monospace;
+  line-height: 160%;
 }
 
 /* our partners */
