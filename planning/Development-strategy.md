@@ -282,6 +282,56 @@
 
 - "support-paragraph" : text-align,color,font-size,font-family,font-weight
 
+## `for: donation form`
+
+### `type: html` (donation form)
+
+- div with class called "container-donate"
+
+    - form with class called "form-donate"
+
+      - div with class called "select-donate"
+
+        - labels with class called "donate-label"
+
+        - radio buttons with class called "radio-donate" for 'One time' and 'Monthly'
+
+        - label with class called "donate-times"
+    
+        - div with class called "options-donate"
+
+          - ul with class called "amount-list"
+
+          - Multiple li with class called "amount-options"
+
+        - label with class called "donate-times" for amount
+
+        - input type of number with class called "input-donate"
+          
+        - label with class called "donate-times" for message
+
+        - input type of text with class called "input-donate"
+          
+        - button with class called "donate-button"
+
+### `type: css`(donation form)
+
+- "container-donate": display,flex-direction,width,margin,padding,border,font-size,font-style,vertical-align,text-decoration,box-sizing,font-family
+
+- "form-donate": display,flex-direction,align-items,margin,padding,border,font-size,font-style,vertical-align,text-decoration,box-sizing,font-family
+
+- "select-donate": display,flex-direction,margin,padding,border,font-size,font-style,vertical-align,text-decoration,box-sizing,font-family
+
+- "radio-donate": cursor,margin-right,font-size,font-style,font-family
+
+- "donate-times": color,text-align,max-width,line-height,font-size,font-family,margin,white-space,padding,border,font-style,text-decoration,font-weight
+
+- "amount-options": display,border,color,padding,cursor,justify-content,background-color,font-family,margin,font-size,text-decoration,font-weight
+
+- "input-donate": width,border-color,border-style,border-width,border-image,margin,font-size,padding,box-sizing,color,background-color,outline
+
+- "donate-button":  font-size,line-height,text-decoration,background-color,color,font-weight,border-radius,box-sizing,padding,cursor,font-family
+
 ## `for: Contact US`
 
 ### `type: html` (contact us)
