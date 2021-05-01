@@ -843,6 +843,15 @@ ul {
   text-decoration: none;
   box-sizing: border-box;
 }
+.footer nav {
+  word-spacing: 20px;
+  padding-bottom: 20px;
+  text-align: center;
+  box-sizing: border-box;
+}
+.footer a {
+color: rgb(74, 80, 187);
+}
 
 /*END RESULT PART */
 
