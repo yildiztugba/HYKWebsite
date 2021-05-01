@@ -494,16 +494,15 @@ ul {
   -moz-box-align: center;
   max-width: 1380px;
   margin: 0px auto;
-  
 }
 
 .suc-sto {
- background-color: rgb(255, 255, 255);
- width: 100%;
- height: 550px;
- border: 0px solid black;
- padding: 10px 0px;
- margin: 0px auto;
+  background-color: rgb(255, 255, 255);
+  width: 100%;
+  height: 550px;
+  border: 0px solid black;
+  padding: 10px 0px;
+  margin: 0px auto;
 }
 
 .demo1 {
@@ -547,7 +546,7 @@ ul {
   margin-left: 25%;
   margin-right: 9%;
   margin-bottom: 2%;
-  font-family:"Space Mono", monospace;
+  font-family: "Space Mono", monospace;
 }
 
 .pic2 {
@@ -583,7 +582,7 @@ ul {
   margin-top: 2%;
   margin-left: 70%;
   margin-right: 9%;
-  font-family:"Space Mono", monospace;
+  font-family: "Space Mono", monospace;
 }
 
 /* our partners */
@@ -599,6 +598,7 @@ ul {
   background: none;
   z-index: 1;
   flex: 0 0 auto;
+  margin-top: 20%;
 }
 
 .our-partners-wrapper {
@@ -611,7 +611,7 @@ ul {
   width: 100%;
   max-width: 1280px;
   padding: 10px 0px;
-  margin: 0px auto;
+  margin-top: 40px;
 }
 
 .our-partners-box {
