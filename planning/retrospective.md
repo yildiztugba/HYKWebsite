@@ -71,5 +71,5 @@
 - The benefits of communication
 - Having team-leader is well for organization and planning
 
-![retro](https://github.com/yildiztugba/HYKWebsite/blob/main/planning/RetroHYF2.jpg)
+![retro](https://github.com/yildiztugba/HYKWebsite/blob/main/img/RetroHYF2.jpg)
 
