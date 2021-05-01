@@ -5,10 +5,15 @@
 ### `type: html` (Header)
 
 - section with class called "header"
+
   - div with class called "container-header"
+  
     - logo with class "logo"
+
   - div with class "header-right"
+
     - a with class "nav_link"
+
     - button with class "header-right button"
 
 ### `type: css` (Header)
@@ -46,18 +51,29 @@
 ### `type: html` (Our Program)
 
 - section with class called "our-program"
+
   - div with class called "explanation-wrapper"
+
     - div with class called "explanation"
+
     - Title with h2, class called "op-title"
+
     - Information with p, class called "program-info"
+  
   - div with class called "exp-img-outer"
+  
   - div with class called "exp-img"
   
 ### `type: css`
-- "our-program": display, justify-content,width,padding,position,box-shadow,background,z-index,flex
+
+- "our-program": display, justify-content, width, padding, position, box-shadow, background, z-index, flex
+
 - "explanation-wrapper" : width,display,margin
+
 - "explanation": display, flex, align-items
+
 - "op-title": padding, font-size, line-height
+
 - "program-info": padding, font-size, line-height
 
 ## `for: Result`
@@ -175,67 +191,76 @@
 ### `type: css`(Core Values)
 
 - "padding-core-values":display,-moz-box-pack,justify-content,width,padding,position,box-shadow,background, z-index,flex
+
 - "margin-core-values":display, flex-direction,-moz-box-pack,justify-content,-moz-box-align,align-items,width,max-width,padding,margin
+
 - "table-core-values": display,background-color,padding,flex-direction
+
 - "title-core-values": font-size,line-height,margin-bottom,text-transform,font-family,font-weight,color,text-align,max-width
+
 - "box-core-values":display,flex-wrap,-moz-box-flex,flex-grow,-moz-box-pack,justify-content
+
 - "one-value":  display,width,flex-direction,align-items
+
 - "image-one-value": width,height,object-fit,border-radius
+
 - "title-one-value:font-size,line-height,margin-bottom,text-transform,font-family,font-weight,color,text-align,max-width
+
 - "info-one-value":color,text-align,max-width,line-height,font-size,font-family,margin,white-space,word-break,font-weight
 
-## `for: Sucesses story`
+## `for: Success stories`
 
-### `type: html` (our successes story)
+### `type: html` (our Success stories)
 
 - section with class called "our successes story"
 
-    - Title with h2, class called "Demo"
+  - Title with h2, class called "Demo"
 
-      - div with class called "gita"
+    - div with class called "gita"
 
-      - div with class called "suc"
+    - div with class called "suc"
 
-      - div with class called "pic"
+    - div with class called "pic"
 
-    - Title with h4, class called "name"
-   
-    - Title with h5, class called "pos"
+  - Title with h4, class called "name"
+  
+  - Title with h5, class called "pos"
 
     - p-class called "bio"
 
- ### `type: css`(successes story)    
- 
- - h2  "demo": align:left
-    
- - "pic": width,height,margin,float,background-position,filter,float,margin-top,margin-left,border-radius
-    
- - "name": margin,font-size,color,margin-left,margin-right
- 
- - "pos": margin-left,margin-right
- 
- - "name": color,margin-left,margin-right,font-size
+### `type: css`(successes stories)
 
- -  "bio": margin-top,margin-left,margin-right
- 
- ## `for: Our Partners`
- 
- ### `type: html`(Our Partners)
- - section with class called "our-partners"
-   
-   - div with class called "our-partners-box"
-     
-     -div with class called "box-title"
-     
-      -h2 with class called "our-partner-title"
-     
-      -link button for "become a partner"
-     
-        -svg with class called "right-arrow"
-     
-     - div with class called "partners-box"
-      
-      -*12 div with partners logos
+- h2  "demo": align:left
+
+- "pic": width,height,margin,float,background-position,filter,float,margin-top,margin-left,border-radius
+
+- "name": margin,font-size,color,margin-left,margin-right
+
+- "pos": margin-left,margin-right
+
+- "name": color,margin-left,margin-right,font-size
+
+- "bio": margin-top,margin-left,margin-right
+
+## `for: Our Partners`
+
+### `type: html`(Our Partners)
+
+- section with class called "our-partners"
+
+- div with class called "our-partners-box"
+
+  - div with class called "box-title"
+
+  - h2 with class called "our-partner-title"
+
+  - link button for "become a partner"
+
+    - svg with class called "right-arrow"
+
+- div with class called "partners-box"
+
+  - *12 div with partners logos
 
 ### `type: css`(Our Partners)
 
@@ -248,27 +273,28 @@
 - h2 : margin, font-size, font-family
 
 - logos: align-items, webkit-box-align, display
+
 ## `for: Support the developers`
 
 ### `type: html` (Support the developers)
 
 - section with class called "section-support"
 
-    - div with class called "outer-container"
+  - div with class called "outer-container"
 
-      - div with class called "inner-container"
+    - div with class called "inner-container"
 
-        - div with class called "div-support"
+      - div with class called "div-support"
 
-          - div with class called "div-content"
+        - div with class called "div-content"
 
-            - Title with h1, class called "support-title"
-    
+          - Title with h1, class called "support-title"
+
             - p-class called "support-paragraph"
 
 ### `type: css`(support the developers)
 
-- "section-support": display,justify-content,width,padding,position,box-shadow,background,flex 
+- "section-support": display,justify-content,width,padding,position,box-shadow,background,flex
 
 - "outer-container": display,flex-direction,justify-content,align-items,width,max-width,padding,margin
 
@@ -288,16 +314,16 @@
 
 - div with class called "container-donate"
 
-    - form with class called "form-donate"
+  - form with class called "form-donate"
 
-      - div with class called "select-donate"
+    - div with class called "select-donate"
 
-        - labels with class called "donate-label"
+      - labels with class called "donate-label"
 
         - radio buttons with class called "radio-donate" for 'One time' and 'Monthly'
 
         - label with class called "donate-times"
-    
+
         - div with class called "options-donate"
 
           - ul with class called "amount-list"
@@ -307,11 +333,11 @@
         - label with class called "donate-times" for amount
 
         - input type of number with class called "input-donate"
-          
+
         - label with class called "donate-times" for message
 
         - input type of text with class called "input-donate"
-          
+
         - button with class called "donate-button"
 
 ### `type: css`(donation form)
@@ -332,33 +358,39 @@
 
 - "donate-button":  font-size,line-height,text-decoration,background-color,color,font-weight,border-radius,box-sizing,padding,cursor,font-family
 
-## `for: Contact US`
+## `for: Contact Us`
 
 ### `type: html` (contact us)
+
 - section with class called "mainscreen"
 
-    - div with class called "container__mainscreen"
+  - div with class called "container__mainscreen"
 
-      - div with class called "mainscreen_contactus"
+    - div with class called "mainscreen_contactus"
 
-        - Title h1 with class called "mainscreen__header"
+      - Title h1 with class called "mainscreen__header"
 
-          - p-class with class called "mainscreen_form"
+        - p-class with class called "mainscreen_form"
 
-            - form with cless called "mainscreen__form"
-             - label with class called "mainscreen__form__name"
-             - button with class called "mainscreen__form__button"
-    
+          - form with cless called "mainscreen__form"
+
+            - label with class called "mainscreen__form__name"
+
+            - button with class called "mainscreen__form__button"
+
       - div with class called "mainscreen__center"
+
       - div style with class called "mainscreen__img"
   
 ### `type: css`(contact us)
-- "mainscreen": display,-webkit-box-pack justify-content,width,padding,position,box-shadow,background,z-index, flex 
+
+- "mainscreen": display,-webkit-box-pack justify-content,width,padding,position,box-shadow,background,z-index, flex
 
 - "container__mainscreen": display,width
+
 - "mainscreen_contactus" : display,flex-direction, width, height, background-color, padding
 
--"mainscreen__header": color,text-align, max-width, font-size,line-height margin, white-space, font-family font-weight, word-break 
+-"mainscreen__header": color,text-align, max-width, font-size,line-height margin, white-space, font-family font-weight, word-break
 
 -"mainscreen_form": font-size,line-height margin-bottom, text-transform, font-family font-weight, color, text-align, max-width
 
@@ -402,20 +434,4 @@
 
 - "place": color,text-align,max-width,line-height,font-size,font-family,margin,white-space,word-break,font-weight,font-style,text-decoration,box-sizing,
 
-- "place1": color,text-align,max-width,line-height,font-size,font-family,white-space,word-break,fontweight,fontstyle,verticalalign,text,decoration,boxsizing,
-
-
- 
- 
- 
-
-
- 
- 
- 
- 
-
-
-
-
-
+- "place1": color,text-align,max-width,line-height,font-size,font-family,white-space,word-break,fontweight,fontstyle,verticalalign,text,decoration,boxsizing.
