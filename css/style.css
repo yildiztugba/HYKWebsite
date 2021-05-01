@@ -1289,6 +1289,14 @@ ul {
   font-family: "Work Sans", sans-serif;
 }
 
+.mainscreen__center {
+  display: flex;
+  height: 100%;
+  min-height: 400px;
+  padding-left: 60px;
+  background-color: transparent;
+}
+
 .mainscreen__img {
   -webkit-box-align: stretch;
   align-items: stretch;
@@ -1297,15 +1305,8 @@ ul {
   display: flex;
   flex-direction: row;
   -webkit-box-flex: 0;
-  height: 100%;
   -webkit-box-pack: start;
   justify-content: flex-start;
-  max-height: none;
-  max-width: none;
-  width: 100%;
-  z-index: auto;
-  position: relative;
-  flex: 0 1 100%;
-  margin: 0px;
-  padding: 0px;
+  height: 695px;
+  width: 893px;
 }
